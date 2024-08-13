@@ -1,7 +1,9 @@
 class A{
-A();
+
+  const A();
 }
 class B
 {
-B();
+
+const B();
 }
